@@ -27,7 +27,7 @@ Hope you will like the project guys.👌
 ## Contact
 - **Email:** [kibiwottderick@gmail.com](mailto:kibiwottderick@gmail.com)
 - **Phone:** +254-705-676454  
-- **GitHub:** [Your GitHub](https://github.com/derick-kibiwott)  
-- **LinkedIn:** [Your LinkedIn](linkedin.com/in/derick-kibiwott-1a24502b6/overlay/about-this-profile/)  
+- **GitHub:** [derick-kibwott](https://github.com/derick-kibiwott)  
+- **LinkedIn:** [derick-kibiwott](linkedin.com/in/derick-kibiwott-1a24502b6/overlay/about-this-profile/)  
 
 Feel free to reach out for collaboration or project inquiries!
