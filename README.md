@@ -10,10 +10,24 @@ This will make fire up the app at once.
 Go to any browser and open the port at which it is served.
 <h3 style="color:green">Let's have a preview of the framework.</h3>
 # creating models
-<img src="https://github.com/cloutHacker/projectImages/blob/master/CodeSplash/model.png"/>
+<img src="https://github.com/derick-kibiwott/projectImages/blob/master/CodeSplash/model.png"/>
 # Creating controller
 <img src="https://github.com/cloutHacker/projectImages/blob/master/CodeSplash/splash.png"/>
 This is a php framework used to simplify projects, saves time and is used to make elegant and robust systems which are secure.
 Hope you will like the project guys.👌
 👌
 <span style="color:green;">Thank you for your unending support and hope you will stay tune to this account for more intresting and fun projects.</span>
+
+## Author
+**Name:** @derick-kibiwott
+**Profession:** UI/UX Designer | Programmer 
+
+---
+
+## Contact
+- **Email:** [kibiwottderick@gmail.com](mailto:kibiwottderick@gmail.com)
+- **Phone:** +254-705-676454  
+- **GitHub:** [Your GitHub](https://github.com/derick-kibiwott)  
+- **LinkedIn:** [Your LinkedIn](linkedin.com/in/derick-kibiwott-1a24502b6/overlay/about-this-profile/)  
+
+Feel free to reach out for collaboration or project inquiries!
